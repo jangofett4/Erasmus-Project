@@ -23,7 +23,7 @@
         <a class="nav-link" href="accomodation.php">Accommodation</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="partners.php">Partner Institutions</a>
+        <a class="nav-link" href="partners2.php">Partner Institutions</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="contacts.php">Contacts</a>
