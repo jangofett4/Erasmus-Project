@@ -1,4 +1,4 @@
-<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light navbarShadow">
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light navbarShadow" style="z-index: 2">
   <a class="navbar-brand" href="index.php"><img src="img/marko-logo.png" height="50px"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -20,7 +20,7 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="accomodation.php">Accomendition</a>
+        <a class="nav-link" href="accomodation.php">Accommodation</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="partners.php">Partner Institutions</a>

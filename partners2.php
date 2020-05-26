@@ -18,199 +18,37 @@
         <div class="container-fluid text-center">
             <h1 class="m-4">Partner Insitutions</h1>
             <div class="row justify-content-center">
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-                <div class="card uniCards m-4" style="width: 18rem;">
-                    <img class="card-img-top p-2" src="https://i.pinimg.com/originals/be/ae/06/beae0614572eef5042b38b4729b4cc6f.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title text-center">Kocaeli Üniversitesi</h4>
-                    </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item text-center">Turkey</li>
-                        <li class="list-group-item text-center font-weight-light">
-                            <h5>Subject Area</h5>Information and Communication Technologies, Information and Communication Systems
-                        </li>
-                        <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li>
-                        <a href="http://www.kocaeli.edu.tr" class="text-light font-weight-light">
-                            <li class="list-group-item text-center font-weight-light bg-info text-light">www.kocaeli.edu.tr</li>
-                        </a>
-                    </ul>
-                </div>
-
+                <?php
+                $fp = fopen("partners.msv", "r");
+                if (!$fp) exit;
+                while (!feof($fp))
+                {
+                    $line = fgets($fp);
+                    if (!empty($line))
+                    {
+                        $data = explode('$$$', $line);
+                        echo
+<<<HTML
+                        <div class="card uniCards m-4" style="width: 18rem;">
+                            <!--<img class="card-img-top p-2" src="" alt="Card image cap">-->
+                            <div class="card-body">
+                                <h4 class="card-title text-center">{$data[0]}</h4>
+                            </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item text-center">{$data[1]}</li>
+                                <li class="list-group-item text-center font-weight-light">
+                                    <h5>Subject Area</h5>{$data[2]}
+                                </li>
+                                <!-- <li class="list-group-item text-center font-weight-light"><i class="fas fa-envelope"></i> international@kocaeli.edu.tr</li> -->
+                                <a href="http://{$data[3]}" class="text-light font-weight-light">
+                                    <li class="list-group-item text-center font-weight-light bg-info text-light">{$data[3]}</li>
+                                </a>
+                            </ul>
+                        </div>
+HTML;
+                    }
+                }
+                ?>
             </div>
         </div>
     </div>

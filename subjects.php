@@ -16,7 +16,7 @@
         <?php include "header.php"; ?>
         <div class="container-fluid">
             <!--Img Left-->
-            <div class="row p-2 justify-content-center mt-3 text-dark bg-warning subjectLeftRight">
+            <div class="row p-2 justify-content-center mt-sm-4 text-dark bg-warning subjectLeftRight">
                 <div class="col-4">
                     <img src="img/subjects/Accounting.jpg" class="rounded float-left img-fluid" alt="">
                 </div>
@@ -35,7 +35,7 @@
                 </div>
             </div>
             <!--Img Right-->
-            <div class="row p-2 justify-content-center mt-3 text-dark bg-success subjectRightLeft">
+            <div class="row p-2 justify-content-center mt-sm-4 text-dark bg-success subjectRightLeft">
                 <div class="col-8">
                     <h2 class="mr-4">Business English and Communication</h2>
                     <div class="containter mt-2 mb-2 p-2 mr-4">
@@ -58,7 +58,7 @@
                 </div>
             </div>
             <!--Img Left-->
-            <div class="row p-2 justify-content-center mt-3 text-dark bg-orangeRed subjectLeftRight">
+            <div class="row p-2 justify-content-center mt-sm-4 text-dark bg-orangeRed subjectLeftRight">
                 <div class="col-4 d-flex align-items-center">
                     <img src="img/subjects/Law.jpg" class="rounded float-left img-fluid d-block my-auto" alt="">
                 </div>
@@ -83,7 +83,7 @@
                 </div>
             </div>
             <!--Img Right-->
-            <div class="row p-2 justify-content-center mt-3 text-dark bg-primary subjectRightLeft">
+            <div class="row p-2 justify-content-center mt-sm-4 text-dark bg-primary subjectRightLeft">
                 <div class="col-8">
                     <h2 class="mr-4">Information Systems Technologies and Cyber Security</h2>
                     <div class="containter mt-2 mb-2 p-2 ml-4">
@@ -105,7 +105,7 @@
                     <img src="img/subjects/information.jpg" class="rounded float-right img-fluid" alt="">
                 </div>
             </div>
-            <div class="row p-2 justify-content-center mt-3 text-dark bg-warning subjectLeftRight">
+            <div class="row p-2 justify-content-center mt-sm-4 text-dark bg-warning subjectLeftRight">
                 <div class="col-4">
                     <img src="img/subjects/childhood.jpg" class="rounded float-left img-fluid" alt="">
                 </div>
@@ -127,7 +127,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row p-2 justify-content-center mt-3 text-dark bg-info subjectRightLeft">
+            <div class="row p-2 justify-content-center mt-sm-4 text-dark bg-info subjectRightLeft">
                 <div class="col-8">
                     <h2 class="mr-4">Information Systems Technologies and Cyber Security</h2>
                     <div class="containter mt-2 mb-2 p-2 ml-4">
